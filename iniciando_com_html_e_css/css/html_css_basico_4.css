@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+.par {
+    font-weight: bold;
+    background-color: rebeccapurple;
+    color: cadetblue;
+}
+.destaque {
+    font-size: 30px;
+}
